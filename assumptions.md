@@ -1,0 +1,3 @@
+- a user will upload one folder per label application that contains application and a label
+- we can use azure for inference
+- 
